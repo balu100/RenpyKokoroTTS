@@ -1,6 +1,6 @@
-# Ren'Py Universal Kokoro TTS
+# Please use https://github.com/balu100/RenpyUniversalTTS
 
-## [VibeVoiceVersion](https://github.com/balu100/RenpyVibeVoiceTTS) way better expressions but more resources.
+## Ren'Py Universal Kokoro TTS
 
 A drop-in Ren'Py script that replaces Ren'Py self-voicing with Kokoro TTS.
 
