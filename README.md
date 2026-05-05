@@ -1,5 +1,7 @@
 # Ren'Py Universal Kokoro TTS
 
+## [VibeVoiceVersion](https://github.com/balu100/RenpyVibeVoiceTTS) way better expressions but more resources.
+
 A drop-in Ren'Py script that replaces Ren'Py self-voicing with Kokoro TTS.
 
 Put `ai_tts_kokoro.rpy` into a game's `game/` folder, run a local Kokoro
